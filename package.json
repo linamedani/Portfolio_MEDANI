@@ -1,5 +1,5 @@
 {
-  "name": "c-wamp-www-portfolio",
+  "name": "c-wamp-www-Portfolio_MEDANI",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,8 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.11.0",
     "@astrojs/check": "^0.7.0",
+    "astro": "^4.11.0",
     "typescript": "^5.5.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
